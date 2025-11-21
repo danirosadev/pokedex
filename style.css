@@ -5,10 +5,10 @@
 }
 
 :root {
-    --primary-color: #4285F4; 
-    --secondary-color: #4854c2; 
-    --tertiary-color: #F2B80A; 
-    --bg-color: #63b9ab; 
+    --primary-color: #DAC9DF; 
+    --secondary-color: #81638B; 
+    --tertiary-color: #45304d; 
+    --bg-color: #B695C0; 
 }
 
 body {
@@ -28,11 +28,10 @@ header {
 }
 
 header h1 {
-    font-size: 8rem; /* Tamanho da fonte */
+    font-size: 6rem; /* Tamanho da fonte */
     color: var(--tertiary-color);
-    text-shadow: #000000 0px 0px 10px;
     margin: 0; /* Remove a margem padrão */
-    font-weight: bold; /* Peso da fonte (médio) */
+    font-weight: bolder; /* Peso da fonte (médio) */
     white-space: nowrap; /* Impede a quebra de linha do texto */
 }
 
